@@ -33,7 +33,7 @@ Feel free to reach out to me through GitHub if you have any questions or collabo
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://tinyurl.com/yc8zu7uk)
 
 ---
 
