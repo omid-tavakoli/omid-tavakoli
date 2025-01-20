@@ -31,13 +31,7 @@ Feel free to reach out to me through GitHub if you have any questions or collabo
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://tinyurl.com/yc8zu7uk)
-
----
-
 ### 🌐 Let's Connect:
 
 - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/omid-tavakoli-5938682b3/))
-- [TElegram]([https://twitter.com/your-profile](https://t.me/omidtavakoli_tk))
+- [Telegram]([https://twitter.com/your-profile](https://t.me/omidtavakoli_tk))
