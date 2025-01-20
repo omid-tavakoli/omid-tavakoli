@@ -25,10 +25,6 @@ Check out my repositories for various front-end projects, including:
 - Custom components
 - Tools built with modern front-end technologies
 
-🌟 **Notable Projects:**
-- [Project 1 Name](https://link-to-project1) - A brief description of the project.
-- [Project 2 Name](https://link-to-project2) - Another amazing project!
-
 ## 📞 Contact
 
 Feel free to reach out to me through GitHub if you have any questions or collaboration ideas.
@@ -43,5 +39,5 @@ Feel free to reach out to me through GitHub if you have any questions or collabo
 
 ### 🌐 Let's Connect:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/omid-tavakoli-5938682b3/))
+- [TElegram]([https://twitter.com/your-profile](https://t.me/omidtavakoli_tk))
