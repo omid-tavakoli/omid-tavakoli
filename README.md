@@ -32,17 +32,9 @@ Feel free to reach out to me through GitHub if you have any questions or collabo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidtavakoli&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### 🏆 GitHub Contributions
-
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=omidtavakoli&theme=react)
-
 ### 🧑‍💻 Languages & Tools
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omidtavakoli&langs_count=10&layout=compact&theme=radical)
-
-
-![Background Image](https://link-to-your-image.com)
-
 
 ### 🌐 Let's Connect:
 
