@@ -41,6 +41,7 @@
 
 ### 🧪 Testing & Storybooks
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=microsoft&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)
 
