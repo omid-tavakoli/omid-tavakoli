@@ -54,7 +54,7 @@ With over 2 years of experience as a Front-End Developer, I’ve worked with var
 🏢 Sahim Co – Front-End Developer
 Yazd | 2025
 
-Built and optimized a large-scale internal platform (ATS) used by over 300,000 users in municipal services
+Built and optimized a large-scale internal platform (ITS) used by over 300,000 users in municipal services
 
 Designed reusable UI components using React, TypeScript, and Tailwind CSS
 
@@ -133,8 +133,8 @@ Collaborated closely with back-end engineers to match government-specific requir
 
 Focused on UX and performance for heavy internal data workflows
 
-🏢 ATS – Internal Tracking System at Sahim Co
-Worked on a core internal product named ATS at Sahim, a municipal tech company.
+🏢 ITS – Internal Tracking System at Sahim Co
+Worked on a core internal product named ITS at Sahim, a municipal tech company.
 Key responsibilities:
 
 Built multiple modules in React + TypeScript with modular component architecture
